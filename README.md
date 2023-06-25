@@ -1,16 +1,26 @@
-### Hi there 👋
+![Header Image](D3S_day5.webp)
 
-<!--
-**MOHYAZZZ/mohyazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Mohammadreza! 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science student with a passion for Data Science and Machine Learning. I love learning and growing my skills in machine learning algorithms, data analysis, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Machine Learning
+- Data Analysis
+- Predictive Modeling
+- Python
+- Java
+- SQL
+- PDDL
+
+## 📚 What I'm currently learning
+- Advanced Machine Learning Techniques
+- Big Data Processing with Hadoop & Spark
+- Deep Learning
+
+## 📫 How to reach me
+You can contact me through:
+
+- [LinkedIn](https://www.linkedin.com/in/mohammadreza-yazdian-503b3a219/)
+
+
