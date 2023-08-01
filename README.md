@@ -1,8 +1,9 @@
-![Header Image](D3S_day5.webp)
+<img src="D3S_day5.webp" width="500">
+
 
 # Hello, I'm Mohammadreza! 👋
 
-I'm a Computer Science student with a passion for Data Science and Machine Learning. I love learning and growing my skills in machine learning algorithms, data analysis, and predictive modeling.
+I'm a MSc student in Data Science and Analytics, with a strong passion for Machine Learning. I enjoy enhancing my skills in machine learning algorithms, data analysis, and predictive modeling.
 
 ## 🛠 Skills
 - Machine Learning
@@ -17,10 +18,9 @@ I'm a Computer Science student with a passion for Data Science and Machine Learn
 - Advanced Machine Learning Techniques
 - Big Data Processing with Hadoop & Spark
 - Deep Learning
+- React
 
 ## 📫 How to reach me
 You can contact me through:
 
 - [LinkedIn](https://www.linkedin.com/in/mohammadreza-yazdian-503b3a219/)
-
-
