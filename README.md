@@ -1,26 +1,20 @@
-<img src="D3S_day5.webp" width="500">
+# Hi, I'm Reza 👋
 
+I'm a data analyst with a background in machine learning and data science. I'm particularly interested in anomaly detection, time series, and building practical AI systems.
 
-# Hello, I'm Mohammadreza! 👋
+---
 
-I'm a MSc student in Data Science and Analytics, with a strong passion for Machine Learning. I enjoy enhancing my skills in machine learning algorithms, data analysis, and predictive modeling.
+## Interests
 
-## 🛠 Skills
-- Machine Learning
-- Data Analysis
-- Predictive Modeling
-- Python
-- Java
-- SQL
-- PDDL
+- Anomaly & change-point detection
+- Conformal prediction & uncertainty quantification
+- Deep learning & NLP
+- Data pipelines & automation
 
-## 📚 What I'm currently learning
-- Advanced Machine Learning Techniques
-- Big Data Processing with Hadoop & Spark
-- Deep Learning
-- React
+## Tools I use
 
-## 📫 How to reach me
-You can contact me through:
+Python · SQL · Power BI · PyTorch · React
 
-- [LinkedIn](https://www.linkedin.com/in/mohammadreza-yazdian-503b3a219/)
+---
+
+[LinkedIn](https://www.linkedin.com/in/mohammadreza-yazdian-503b3a219/)
